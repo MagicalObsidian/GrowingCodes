@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "stack": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}
